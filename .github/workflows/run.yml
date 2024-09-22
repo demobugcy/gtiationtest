@@ -1,6 +1,9 @@
 name: 部署vite-vue
 on: push
 
+permissions:
+    contents: write
+
 jobs:
     job-name:
         name: 工作名称
