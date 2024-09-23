@@ -49,8 +49,10 @@
 
 
 <style scoped>
+
 .common-layout {
     height: 100vh;
+    background-image: url('./bg.jpg');
 }
 
 .home-container {
