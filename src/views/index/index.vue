@@ -52,7 +52,7 @@
 
 .common-layout {
     height: 100vh;
-    background-image: url('./bg.jpg');
+    background-image: url('/bg.jpg');
 }
 
 .home-container {
